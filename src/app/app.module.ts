@@ -28,3 +28,5 @@ import { AboutComponent } from './about/about.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+//https://github.com/metaware/angular-invoicing
